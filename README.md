@@ -1,2 +1,3 @@
 # Calculator
-A Calculator application in Java using NetBeans that can perform multiple operations
+A Calculator application in Java using AWT/Swing that can evaluate complex arithmetic expressions
+
